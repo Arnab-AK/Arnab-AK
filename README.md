@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **royjason715@gmail.com**
 
-- 📄 Know about my experiences [https://arnab-ak.github.io/HTML-Online_CV/](https://arnab-ak.github.io/HTML-Online_CV/)
+- 📄 Know about my experiences https://arnab-ak.github.io/HTML-CSS-Online_CV/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
