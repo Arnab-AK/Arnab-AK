@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **My Portfolio Project**
 
-- 🌱 I’m currently learning **React, Django, Java**
+- 🌱 I’m currently learning **Java, JavaScript, React, Django**
 
-- 💬 Ask me about **HTML, CSS, Python, SQL, MongoDB**
+- 💬 Ask me about **Python, PySpark, Azure, HTML, CSS, SQL, MongoDB**
 
 - 📫 How to reach me **royjason715@gmail.com**
 
