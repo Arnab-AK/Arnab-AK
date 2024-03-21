@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python, PySpark, Azure, HTML, CSS, SQL, MongoDB**
 
-- 📫 How to reach me **royjason715@gmail.com**
+- 📫 How to reach me **arnab.kar101@gmail.com**
 
 - 📄 Know about my experiences https://arnab-ak.github.io/HTML-CSS-Online_CV/
 
