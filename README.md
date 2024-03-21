@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnab-ak&label=Profile%20views&color=0e75b6&style=flat" alt="arnab-ak" /> </p>
 
-- 🔭 I’m currently working on **My Portfolio Project**
+- 🔭 I’m currently working on **Accenture**
 
 - 🌱 I’m currently learning **Java, JavaScript, React, Django**
 
