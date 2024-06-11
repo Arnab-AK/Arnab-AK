@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Accenture**
 
-- 🌱 I’m currently learning **Java, JavaScript, React, Django**
+- 🌱 I’m currently learning **Java, Django**
 
-- 💬 Ask me about **Python, PySpark, Azure, HTML, CSS, SQL, MongoDB**
+- 💬 Ask me about **Python, PySpark, Azure, HTML, CSS, SQL, MongoDB, JavaScript, React**
 
 - 📫 How to reach me **arnab.kar101@gmail.com**
 
