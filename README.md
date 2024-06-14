@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnab-ak&label=Profile%20views&color=0e75b6&style=flat" alt="arnab-ak" /> </p>
 
-- 🔭 I’m currently working on **Accenture**
+- 🔭 I’m currently working on **Accenture** as a Full Stack LLM Developer
 
 - 🌱 I’m currently learning **Java, Django**
 
