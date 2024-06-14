@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java, Django**
 
-- 💬 Ask me about **Python, PySpark, Azure, HTML, CSS, SQL, MongoDB, JavaScript, React**
+- 💬 Ask me about **Python, PySpark, Microsoft Azure, HTML, CSS, JavaScript, ReactJS, SQL, MongoDB**
 
 - 📫 How to reach me **arnab.kar101@gmail.com**
 
