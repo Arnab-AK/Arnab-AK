@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Visa Inc.** as a Software Development Engineer II
 
-- 🌱 I’m currently learning **Java, Django**
+- 🌱 I’m currently learning **Agentic AI Concepts**
 
-- 💬 Ask me about **Python, PySpark, Microsoft Azure, HTML, CSS, JavaScript, ReactJS, SQL, MongoDB*, Scripting, Hadoop**
+- 💬 Ask me about **Python, PySpark, Microsoft Azure, HTML, CSS, JavaScript, ReactJS, SQL, MongoDB, Scripting, Hadoop**
 
 - 📫 How to reach me **arnab.kar101@gmail.com**
 
