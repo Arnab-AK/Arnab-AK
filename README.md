@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnab-ak&label=Profile%20views&color=0e75b6&style=flat" alt="arnab-ak" /> </p>
 
-- 🔭 I’m currently working on **Accenture** as a Full Stack LLM Developer
+- 🔭 I’m currently working on **Visa Inc.** as a Software Development Engineer II
 
 - 🌱 I’m currently learning **Java, Django**
 
-- 💬 Ask me about **Python, PySpark, Microsoft Azure, HTML, CSS, JavaScript, ReactJS, SQL, MongoDB**
+- 💬 Ask me about **Python, PySpark, Microsoft Azure, HTML, CSS, JavaScript, ReactJS, SQL, MongoDB*, Scripting, Hadoop**
 
 - 📫 How to reach me **arnab.kar101@gmail.com**
 
