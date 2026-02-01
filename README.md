@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="">
+<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="" width="1500" height="600" />
 <h1 align="center">Hi 👋, I'm Arnab Kar</h1>
 <h3 align="center">A Software Engineer, Full Stack Developer From Kolkata, India.</h3>
 <img align="right" width="400px" src="https://www.lambdatest.com/resources/images/news24.gif" alt="coder">
