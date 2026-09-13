@@ -16,7 +16,6 @@ SDE2 with 4.5+ years building backend services and distributed data platforms us
 <p align="left">
 <a href="https://www.linkedin.com/in/arnab-kar-ak047/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://leetcode.com/u/Arnab_AK/" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-<a href="mailto:arnab.kar101@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
