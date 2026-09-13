@@ -1,0 +1,9 @@
+<svg width="420" height="200" viewBox="0 0 420 200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="420" height="200" rx="10" fill="#141321" stroke="#30263e"/>
+  <text x="210" y="95" text-anchor="middle" fill="#9d7cd8" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14">
+    Top languages will appear here
+  </text>
+  <text x="210" y="116" text-anchor="middle" fill="#6e6a86" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12">
+    after the "Update Profile Metrics" GitHub Action runs
+  </text>
+</svg>

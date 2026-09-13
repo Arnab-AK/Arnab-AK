@@ -1,0 +1,47 @@
+<svg width="400" height="300" viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    text { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; font-size: 15px; }
+    .line { opacity: 0; animation: reveal 8s infinite; }
+    .l1 { animation-delay: 0s; }
+    .l2 { animation-delay: 0.6s; }
+    .l3 { animation-delay: 1.2s; }
+    .l4 { animation-delay: 1.8s; }
+    .l5 { animation-delay: 2.4s; }
+    .l6 { animation-delay: 3.0s; }
+    @keyframes reveal {
+      0%   { opacity: 0; }
+      5%   { opacity: 1; }
+      85%  { opacity: 1; }
+      92%  { opacity: 0; }
+      100% { opacity: 0; }
+    }
+    .cursor { animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+
+  <rect width="400" height="300" rx="14" fill="#1e1e2e"/>
+  <circle cx="24" cy="24" r="6" fill="#ff5f56"/>
+  <circle cx="44" cy="24" r="6" fill="#ffbd2e"/>
+  <circle cx="64" cy="24" r="6" fill="#27c93f"/>
+
+  <text x="24" y="76" class="line l1">
+    <tspan fill="#569cd6">const</tspan><tspan fill="#d4d4d4"> dev = {</tspan>
+  </text>
+  <text x="24" y="104" class="line l2">
+    <tspan fill="#9cdcfe">  name</tspan><tspan fill="#d4d4d4">: </tspan><tspan fill="#ce9178">"Arnab Kar",</tspan>
+  </text>
+  <text x="24" y="132" class="line l3">
+    <tspan fill="#9cdcfe">  role</tspan><tspan fill="#d4d4d4">: </tspan><tspan fill="#ce9178">"SDE II",</tspan>
+  </text>
+  <text x="24" y="160" class="line l4">
+    <tspan fill="#9cdcfe">  company</tspan><tspan fill="#d4d4d4">: </tspan><tspan fill="#ce9178">"Visa Inc.",</tspan>
+  </text>
+  <text x="24" y="188" class="line l5">
+    <tspan fill="#9cdcfe">  learning</tspan><tspan fill="#d4d4d4">: </tspan><tspan fill="#ce9178">"Agentic AI",</tspan>
+  </text>
+  <text x="24" y="216" class="line l6">
+    <tspan fill="#d4d4d4">};</tspan>
+  </text>
+
+  <rect class="cursor" x="24" y="232" width="9" height="16" fill="#d4d4d4"/>
+</svg>

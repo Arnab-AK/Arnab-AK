@@ -1,37 +1,61 @@
-<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="" width="1500" height="600" />
-<h1 align="center">Hi 👋, I'm Arnab Kar</h1>
-<h3 align="center">A Software Engineer, Full Stack Developer From Kolkata, India.</h3>
-<img align="right" width="400px" src="https://www.lambdatest.com/resources/images/news24.gif" alt="coder">
+<img src="./assets/header-wave.svg" alt="" width="100%" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arnab-ak&label=Profile%20views&color=0e75b6&style=flat" alt="arnab-ak" /> </p>
+<h1 align="center">Hi 👋, I'm Arnab Kar</h1>
+<h3 align="center">A Software Development Engineer II, Full Stack Developer From Kolkata, India.</h3>
+<img align="right" width="400px" src="./assets/coder-banner.svg" alt="coder">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arnab-ak&label=Profile%20views&color=9d7cd8&style=flat" alt="arnab-ak" /> </p>
 
 - 🔭 I’m currently working on **Visa Inc.** as a Software Development Engineer II
 
 - 🌱 I’m currently learning **Agentic AI Concepts**
 
-- 💬 Ask me about **Python, PySpark, Microsoft Azure, HTML, CSS, JavaScript, ReactJS, SQL, MongoDB, Scripting, Hadoop**
+- 💬 Ask me about **Python, Apache Spark, FastAPI, GenAI/LLM Integration, Distributed Systems, AWS, Azure, Kubernetes, Docker, PostgreSQL, MongoDB**
 
 - 📫 How to reach me **arnab.kar101@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/arnab-kar-ak047/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arnab-kar-ak047/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/21433340" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21433340" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/arnab-kar-ak047/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:arnab.kar101@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
-
-<!-- Full-width profile card -->
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arnab-AK&theme=holi" alt="AK" width="1500" />
+<p align="left">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" />
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" alt="sql" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="fastapi" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="flask" />
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="apache spark" />
+<img src="https://img.shields.io/badge/GenAI%2FLLM-6E56CF?style=for-the-badge" alt="genai / llm" />
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="aws" />
+<img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="azure" />
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="databricks" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes" />
+<img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="azure devops" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="oracle" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="redis" />
 </p>
 
-<!-- Single-line centered images (no table) -->
+<h3 align="left">GitHub Overview:</h3>
+<!-- Everything below is self-generated by .github/workflows/profile-metrics.yml (lowlighter/metrics), committed straight into assets/ — no third-party server rendering on page view. -->
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Arnab-AK&theme=holi" alt="Repos per language" width="350" style="display:inline-block;margin:0 6px;" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Arnab-AK&theme=holi" alt="Most commit language" width="350" style="display:inline-block;margin:0 6px;" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Arnab-AK&theme=holi" alt="Stats" width="350" style="display:inline-block;margin:0 6px;" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Arnab-AK&theme=holi&utcOffset=8" alt="Productive time" width="350" style="display:inline-block;margin:0 6px;" />
+  <img src="./assets/overview.svg" alt="GitHub Overview" width="900" />
+</p>
+
+<p align="center">
+  <img src="./assets/languages.svg" alt="Top Languages" width="420" style="display:inline-block;margin:0 6px;" />
+  <img src="./assets/achievements.svg" alt="GitHub Achievements" width="420" style="display:inline-block;margin:0 6px;" />
+</p>
+
+<p align="center">
+  <img src="./assets/calendar.svg" alt="Contribution Calendar" width="900" />
 </p>

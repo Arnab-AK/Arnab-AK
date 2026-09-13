@@ -1,0 +1,15 @@
+<svg width="1200" height="150" viewBox="0 0 1200 150" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="sweep" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1e1e2e"/>
+      <stop offset="35%" stop-color="#569cd6"/>
+      <stop offset="65%" stop-color="#9d7cd8"/>
+      <stop offset="100%" stop-color="#1e1e2e"/>
+      <animate attributeName="x1" values="-100%;100%;-100%" dur="10s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="0%;200%;0%" dur="10s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="150" fill="#1e1e2e"/>
+  <path d="M0,95 C 200,35 400,155 600,95 C 800,35 1000,155 1200,95 L1200,150 L0,150 Z" fill="url(#sweep)" opacity="0.85"/>
+  <path d="M0,115 C 200,65 400,165 600,115 C 800,65 1000,165 1200,115 L1200,150 L0,150 Z" fill="#141321"/>
+</svg>
